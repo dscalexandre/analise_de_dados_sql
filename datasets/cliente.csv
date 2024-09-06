@@ -1,0 +1,51 @@
+clienteid,nome,endereco,cidadecliente,paiscliente
+1,Cliente  1,"Rua R, 29",Buenos Aires,Argentina
+2,Cliente  2,"Rua M, 325",São Paulo,Brasil
+3,Cliente  3,"Rua G, 627",New York,EUA
+4,Cliente  4,"Rua V, 187",New York,EUA
+5,Cliente  5,"Rua I, 627",Buenos Aires,Argentina
+6,Cliente  6,"Rua I, 719",Buenos Aires,Argentina
+7,Cliente  7,"Rua H, 252",Rio de Janeiro,Brasil
+8,Cliente  8,"Rua G, 49",New York,EUA
+9,Cliente  9,"Rua U, 889",Rio de Janeiro,Brasil
+10,Cliente  10,"Rua N, 734",São Paulo,Brasil
+11,Cliente  11,"Rua H, 254",Rio de Janeiro,Brasil
+12,Cliente  12,"Rua F, 890",São Paulo,Brasil
+13,Cliente  13,"Rua Y, 126",New York,EUA
+14,Cliente  14,"Rua E, 339",Rio de Janeiro,Brasil
+15,Cliente  15,"Rua O, 769",Buenos Aires,Argentina
+16,Cliente  16,"Rua L, 273",Buenos Aires,Argentina
+17,Cliente  17,"Rua A, 688",Buenos Aires,Argentina
+18,Cliente  18,"Rua Y, 276",Buenos Aires,Argentina
+19,Cliente  19,"Rua D, 12",São Paulo,Brasil
+20,Cliente  20,"Rua J, 537",Rio de Janeiro,Brasil
+21,Cliente  21,"Rua I, 974",Ceará,Brasil
+22,Cliente  22,"Rua D, 400",New York,EUA
+23,Cliente  23,"Rua U, 517",Ceará,Brasil
+24,Cliente  24,"Rua V, 477",São Paulo,Brasil
+25,Cliente  25,"Rua C, 970",São Paulo,Brasil
+26,Cliente  26,"Rua A, 764",Rio de Janeiro,Brasil
+27,Cliente  27,"Rua X, 60",New York,EUA
+28,Cliente  28,"Rua S, 42",New York,EUA
+29,Cliente  29,"Rua A, 984",New York,EUA
+30,Cliente  30,"Rua T, 845",Buenos Aires,Argentina
+31,Cliente  31,"Rua F, 858",São Paulo,Brasil
+32,Cliente  32,"Rua J, 671",São Paulo,Brasil
+33,Cliente  33,"Rua F, 142",Ceará,Brasil
+34,Cliente  34,"Rua F, 798",Buenos Aires,Argentina
+35,Cliente  35,"Rua H, 254",São Paulo,Brasil
+36,Cliente  36,"Rua U, 462",New York,EUA
+37,Cliente  37,"Rua V, 149",Ceará,Brasil
+38,Cliente  38,"Rua E, 100",Buenos Aires,Argentina
+39,Cliente  39,"Rua L, 645",São Paulo,Brasil
+40,Cliente  40,"Rua U, 930",Rio de Janeiro,Brasil
+41,Cliente  41,"Rua B, 602",Rio de Janeiro,Brasil
+42,Cliente  42,"Rua H, 33",Rio de Janeiro,Brasil
+43,Cliente  43,"Rua Q, 325",Ceará,Brasil
+44,Cliente  44,"Rua H, 428",Rio de Janeiro,Brasil
+45,Cliente  45,"Rua M, 364",Ceará,Brasil
+46,Cliente  46,"Rua B, 108",Ceará,Brasil
+47,Cliente  47,"Rua E, 966",New York,EUA
+48,Cliente  48,"Rua U, 6",São Paulo,Brasil
+49,Cliente  49,"Rua F, 919",Ceará,Brasil
+50,Cliente  50,"Rua V, 636",Ceará,Brasil
